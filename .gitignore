@@ -1,6 +1,7 @@
 # dir
 __pycache__/
 .vscode/
+.idea
 
 # file
 *.npz
